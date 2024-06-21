@@ -1,4 +1,0 @@
-WARNING (04/27/24 09:13:50): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.6279839.hostlist.QyYbCEtV to get hosts
-starting job on c209-021
-/opt/apps/intel19/impi19_0/remora/1.8.5/bin/aux/report: line 34: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002732-fmriprep/remora_6279839/remora_timestamp.txt: Permission denied
